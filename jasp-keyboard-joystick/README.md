@@ -6,7 +6,15 @@ The Keyboard Joystick solves the WASD movement problem for PC gamers. You can al
 
 ## Build Guide
 
-There is no detailed build guide or firmware available at the moment, but you can see the whole build process in [this video](https://www.youtube.com/watch?v=S8SKIpWGIe8&t=1s)
+There is no detailed build guide available at the moment, but you can see the whole build process in [this video](https://www.youtube.com/watch?v=S8SKIpWGIe8&t=1s)
+
+## Wiring Diagram
+
+![Wiring_diagram](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/ProMicro_Wiring_Diagram.png)
+
+
+## Firmware
+There is a quick and dirty firmware available [here](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/firmware), it's super basic but it works. If I make something more advanced, I'll be sure to update it. [Installation guide](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/firmware/Firmware_Installation_Guide.md)
 
 
 ## License
