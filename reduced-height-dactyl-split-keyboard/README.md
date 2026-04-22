@@ -1,6 +1,6 @@
 ## Reduced Height Dactyl Split Keyboard
 
-A handwired, split ergonomic keyboard based on the Dactyl Manuform, with a heavily customized case generated via [Dactyl Configurator](https://ryanis.cool/dactyl) and modified in CAD by hand.
+A handwired, split ergonomic keyboard based on the Dactyl Manuform, with a heavily customized case generated via Dactyl configurator and modified in CAD by hand.
 
 I made the keys more evenly distributed compared to the original Dactyl, which I personally find more ergonomic and aesthetically pleasing. I also reduced the height as much as MX switches allow while still maintaining the signature keywell shape.
 
